@@ -1,0 +1,46 @@
+Rayana Naga Venkata Jagadeesh Chandra
+♂phone-alt+91 9908158879|/envel⌢perayanajagadeesh12@gmail.com|/githubJagadeeshChandra12|/linkedinLinkedIn
+EXPERIENCE
+•Addwise Tech Innovations May 2025 – Jul 2025
+Software Engineering Intern
+–Developed REST APIs using Node.js with Supabase PostgreSQL for efficient backend data management.
+–Built a Role-Based GPS Device Management and Tracking System with secure QR-based onboarding and device management.
+–Integrated Leaflet.js for real-time geospatial visualization and route tracking.
+–Validated REST APIs using Postman to ensure functionality and reliability.
+–Implemented role-based authentication and authorization to improve application security.
+PROJECTS
+•Arogya Sathi — AI-Powered Rural Healthcare Assistant(View)
+–Developed an AI-powered healthcare assistant enabling multilingual health guidance for rural users.
+–Built secure health record and symptom tracking modules for patient data management.
+–Integrated speech-to-text and text-to-speech capabilities to improve accessibility and user interaction.
+–Utilized AWS cloud services for scalable backend integration and healthcare resource management.
+•LearnMate AI — Adaptive AI Tutor & 3D Learning Assistant(View)
+–Built an AI-powered adaptive learning platform using FastAPI, React.js, and JavaScript.
+–Integrated Google Gemini API with Ollama fallback for dynamic content generation and offline AI responses.
+–Developed a learner memory system for personalized learning recommendations and adaptive quizzes.
+–Created an interactive 3D virtual assistant using Three.js.
+–Implemented web content retrieval and summarization for AI-assisted learning resources.
+•RouteCraft — Smart Multi-Modal Travel Planner(View)
+–Developed a web-based travel planning platform integrating multiple transportation modes into a unified interface for efficient route
+comparison.
+–Built route search, preference-based filtering, and route optimization modules using TypeScript, Vite, and Node.js.
+–Integrated Google Maps API, RailRadar API, and Uber Deep Links for route visualization, transport information, and booking redirection.
+–Designed a modular architecture following the Incremental SDLC model for scalability and maintainability.
+SKILLS
+•Languages:C, C++, Python, JavaScript, SQL
+Frontend:React.js, HTML5, CSS3, TypeScript, Vite
+Backend:Node.js, Express.js, FastAPI
+Databases:PostgreSQL, MySQL
+Cloud:AWS
+AI/ML:LLMs, NLP, RAG, Google Gemini API, Ollama
+Concepts:Object-Oriented Programming, Data Structures & Algorithms, REST APIs
+Tools:Git, GitHub, Postman, Figma, VS Code
+OPEN SOURCE CONTRIBUTIONS
+Contributed merged pull requests to open-source repositories:
+KanaDojo:github.com/lingdojo/kana-dojoCoop:github.com/roostorg/coop
+ACHIEVEMENTS
+•2nd Prize — Global Goals Hackathon among 50+ teams.
+•Winner — Film Gala 2024 among 10 teams.
+EDUCATION
+•SRM University AP 2023 – 2027
+B.Tech Computer Science Engineering CGPA: 8
